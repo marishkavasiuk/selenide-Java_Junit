@@ -1,0 +1,15 @@
+debug
+
+### Java template
+*.class
+/build
+/target
+/logs
+/allure-results
+
+# IntelliJ project files
+.idea
+*.iml
+gen
+.DS_Store
+.allure
